@@ -443,6 +443,9 @@ section {
   margin-bottom: 0;
 }
 
+.about img.about {
+   border-radius: 50%;
+}
 
 /*--------------------------------------------------------------
 # Skills
