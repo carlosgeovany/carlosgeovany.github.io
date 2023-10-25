@@ -443,7 +443,7 @@ section {
   margin-bottom: 0;
 }
 
-.about img.about {
+.about img-fluid {
    border-radius: 50%;
 }
 
